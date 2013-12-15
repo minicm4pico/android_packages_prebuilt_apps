@@ -19,3 +19,12 @@ Thanks to: Xlythe @ XDA
 Link to thread: http://forum.xda-developers.com/showthread.php?t=1808887
 Link to source: https://github.com/Xlythe/android_packages_apps_Calculator/tree/ics
  
+com.google.android.inputmethod.latin (Google Keyboard)
+Thanks to: Ben Ling @ XDA
+Link to thread: http://forum.xda-developers.com/showthread.php?t=2312179
+Link to source: Probably from AOSP sources
+
+Apollo_for_2.3.3-4.0.4.apk
+Thanks to: rodrigoswz
+Link to thread: http://forum.xda-developers.com/showthread.php?t=2196385
+Link to source: No source provided by OP
